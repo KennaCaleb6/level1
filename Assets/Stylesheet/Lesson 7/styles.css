@@ -1,0 +1,50 @@
+body{
+    /* min-width: 950px; */
+    /* max-width: 1200px; */
+    background-color: silver;
+    /* margin: 0px auto; */
+}
+
+header{
+    margin: 0 1.5% 24px 1.5%;
+    width:auto;
+    height:150px;
+    background-color: green;
+}
+section{
+    margin: 0 1.5% 24px 1.5%;
+    float: right;
+    min-height:200px;
+    width: 30%;
+    background-color: yellow;
+    display: inline-block;
+}
+navigator{
+min-height: 300px;
+width: 200px;
+background-color: blue;
+display: inline-block;
+clear: left;
+}
+.main_content{
+    margin: 0 1.5% 24px 1.5%;
+    /* min-height:450px; */
+    /* min-width: 886px; */
+    width:75%;
+    padding: 3% 2%;
+    background-color: red;
+    display: inline-block;
+    vertical-align: top;
+    float: right;
+}
+
+
+aside code {
+    height: 400px;
+}
+aside{
+    height: 120px;
+    width: auto;
+    background-color: purple;
+    clear:both;
+}

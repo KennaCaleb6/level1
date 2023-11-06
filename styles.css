@@ -1,0 +1,52 @@
+body
+
+{
+    background-color: rgb(114, 114, 156);
+    padding: 10px 30px;
+
+}
+.page1
+{
+    -webkit-bix-sizing: border-box;
+        -moz-box-signing: border-box:
+            box-sizing: border-box;
+            padding: 50px 200px;
+            text-align: center;
+   
+}
+.s
+{
+    text-align: left;
+}
+section{
+    border-radius:5px;
+    display: inline-block;
+    margin: 0px;
+}
+
+a {
+    text-decoration: none:
+}
+header
+{
+    display:block;
+}
+div {
+    display: grid;
+    border: 6px solid #949599;
+    height: 100px;
+    margin: 20px;
+    padding: 20px;
+    width: 400px;
+}
+.li{
+    display: inline;
+}
+footer{
+    display:inline-block;
+}
+
+/*
+My box sizing style
+ */
+
